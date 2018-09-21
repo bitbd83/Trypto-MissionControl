@@ -1,0 +1,62 @@
+{
+  "currentPage": 1,
+  "totalCount": 2,
+  "pageSize": 1,
+  "totalPages": 1,
+  "items": [
+    {
+      "groupId": "string",
+      "code": "PROMO100",
+      "totalRedemptions": "",
+      "totalRedemptionsPerOrder": "",
+      "minimumCartAmount": "",
+      "minimumItemsInCart": "",
+      "active": true,
+      "isArchived": false,
+      "dateCreatedUtc":"2018-07-28T09:56:59.328Z",
+      "effectiveDates": {
+        "from": "2018-07-28T09:56:59.328Z",
+        "to": "2018-07-28T09:56:59.328Z"
+      },
+      "tieredRateSetup": {
+        "strategy": "Percentage",
+        "rates": [
+          {
+            "range": {
+              "from": 1,
+              "to": 0
+            },
+            "rate": 20
+          }
+        ]
+      }
+    },
+    {
+      "groupId": "string",
+      "code": "FLAT10",
+      "totalRedemptions": "",
+      "totalRedemptionsPerOrder": "",
+      "minimumCartAmount": "",
+      "minimumItemsInCart": "",
+      "active": true,
+      "isArchived": false,
+      "dateCreatedUtc":"2018-07-28T09:56:59.328Z",
+      "effectiveDates": {
+        "from": "2018-07-28T09:56:59.328Z",
+        "to": "2018-07-28T09:56:59.328Z"
+      },
+      "tieredRateSetup": {
+        "strategy": "Percentage",
+        "rates": [
+          {
+            "range": {
+              "from": 1,
+              "to": 0
+            },
+            "rate": 10
+          }
+        ]
+      }
+    }
+  ]
+}

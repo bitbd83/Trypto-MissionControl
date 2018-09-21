@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "handle": "confirmed",
+    "title": "content.sidebar.menu.filter.confirmed",
+    "icon": "check-circle"
+  },
+  {
+    "id": 3,
+    "handle": "canceled",
+    "title": "content.sidebar.menu.filter.canceled",
+    "icon": "close-circle-o"
+  },
+  {
+    "id": 100,
+    "handle": "starred",
+    "title": "content.sidebar.menu.filter.starred",
+    "icon": "star"
+  }
+]
